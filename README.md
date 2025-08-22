@@ -38,7 +38,16 @@ An interactive Streamlit dashboard for analyzing customer churn, performing sale
 cd customer-churn-dashboard
 
 ~Install required packages:
-pip install -r requirements.txt
+pip install -> the following in your terminal
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+lime
+matplotlib
+seaborn
+plotly
 
 ~Run the Streamlit app:
 streamlit run churn_prediction_dashboard.py
