@@ -34,8 +34,7 @@ An interactive Streamlit dashboard for analyzing customer churn, performing sale
 -Plotly (for gauge visualization)
 
 🚀 How to Run
-~Clone the repository:
-git clone https://github.com/your-username/customer-churn-dashboard.git
+~Go to your terminal (or powershell) and open your folder like this:
 cd customer-churn-dashboard
 
 ~Install required packages:
